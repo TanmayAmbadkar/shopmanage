@@ -50,4 +50,4 @@ $ python manage.py runserver
 ```
 Open a browser tab and write http://localhost:8000/ to see the website.
 
-You can find the deployed link here. There is no visible homepage yet so you might get an error [link](https://shopmanage.tk/)
+You can find the deployed [link](https://shopmanage.tk/) here. There is no visible homepage yet so you might get an error 
